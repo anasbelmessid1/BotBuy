@@ -1,5 +1,5 @@
 # BotBuy
-# ShopBot: Building an E-commerce Chatbot with Python and OpenAI
+# BotBuy: Building an E-commerce Chatbot with Python and OpenAI
 
 ![Author](https://img.shields.io/badge/Author-Nhi%20Yen-brightgreen)
 [![Medium](https://img.shields.io/badge/Medium-Follow%20Me-blue)](https://medium.com/@yennhi95zz/subscribe)
